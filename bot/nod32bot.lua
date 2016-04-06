@@ -251,7 +251,7 @@ function create_config( )
     about_text = [[
 https://github.com/mostafa1382/untronallteam
 
-channel : @untronallteam
+channel : @utronallteam
 sodu : @totmy
 ]],
     help_text_realm = [[
@@ -317,11 +317,11 @@ Only sudo users can run this command
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
-ch: @untronallteam
+ch: @utronallteam
 
 ]],
     help_text = [[
-untronallteam Commands list :
+utronallteam Commands list :
  
 1-banhammer list ^
  
